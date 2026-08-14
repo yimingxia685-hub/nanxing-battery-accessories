@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nanxing-battery-accessories.pages.dev/sitemap.xml
