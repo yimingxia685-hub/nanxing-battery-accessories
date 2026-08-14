@@ -1,0 +1,5 @@
+gh-auth-*.log
+.wrangler/
+.pnpm-home/
+.pnpm-store/
+.npm-cache/
